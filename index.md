@@ -1,9 +1,9 @@
 # Hacı Mehmet İnce - Progress Journal
 
 ## Homework-0
-- [Html file](files/Homework_0.html)
+- [Html file](HW0/Homework_0.html)
 
 ## Homework-1
 - [Html file](HW1/HW1.html)
-- [Jupyter Notebook file](HW1/Homework_1.ipynb)
+- [Jupyter Notebook file](HW1/HW1.ipynb)
 
