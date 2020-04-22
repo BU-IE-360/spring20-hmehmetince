@@ -3,5 +3,7 @@
 ## Homework-0
 - [Html file](HW0/Homework_0.html)
 
-
+## Homework-1
+- [Html file](HW1/HW1.html)
+- [Jupyter Notebook file](HW1/HW1.ipynb)
 
