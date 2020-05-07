@@ -7,3 +7,7 @@
 - [Html file](HW1/HW1.html)
 - [Jupyter Notebook file](HW1/HW1.ipynb)
 
+## Homework-2 and 3
+- [Html file](HW2-3/HW2-3.html)
+- [Jupyter Notebook file](HW2-3/HW2-3.ipynb)
+
